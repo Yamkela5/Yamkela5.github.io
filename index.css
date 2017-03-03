@@ -1,0 +1,38 @@
+
+body {
+  background-image: url("bluegreenLights.jpg");
+}
+
+img{
+border: 100px solid;
+border-radius: 50px;
+}
+
+h1 {
+  color: black;
+  font-size: 75px;
+  font-family: arial;
+}
+
+.pi.cture1{
+text-align: left;
+background-color: white;
+overflow: right;
+width:98%;
+}
+
+h2{
+color:black;
+font-size: 30px;
+text-align:left;
+}
+
+picture2 {
+text-align: justify;
+overflow: auto;
+width: 80%;
+}
+
+#african {
+  margin: right;
+}
